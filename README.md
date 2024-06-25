@@ -6,4 +6,4 @@ This project contains two main files:
 
 The Model_Creation file which contains the cleaning, EDA, feature engineering, feature selection and ultimately model training on the data.
 
-The Expectancy_Prediction_Model which contains a function (or functions) that allow for predictions on novel inputs. The prediction is self-contained for ease of use.
+The Life_Expectancy_Prediction_Model which contains a function (or functions) that allow for predictions on novel inputs. The prediction is self-contained for ease of use.
