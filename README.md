@@ -1,6 +1,9 @@
 # WHO Linear Regression Model
 
-A linear regression project to predict Life Expectancy using World Health Organisation (WHO) data. The project was completed as part of a team of five for the Digital Futures Academy.
+## Objective
+The aim of this project is to construct two linear regression models for life expectancy based on the data provided by the World Health Organisation (WHO). One model which features as much data as necessary for model performance, and one which is restricted on the basis of what we evaluate to be sensitive data. The data spans 183 countries and records information between 2000 and 2015.
+
+_Here's a quick guide of how to navigate this repository:_ 
 
 This project contains three main files:
 
