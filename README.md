@@ -11,6 +11,6 @@ This project contains three main files:
 
 2. The Life_Expectancy_Prediction_Model which contains a function that allows for predictions on novel inputs.
    
-3. The script used to deploy the prediction model via streamlit. Click the link below to try it! 
+3. The script used to deploy the prediction model via Streamlit. Click the link below to try it! 
    
    https://who-life-expectancy.streamlit.app/
